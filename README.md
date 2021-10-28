@@ -1,5 +1,24 @@
-# Easier-Read
-Progressive web applications - college project | App for converting image to text and transforming it into a more readable format
+# easy-read
 
+## Project setup
+```
+npm install
+```
 
-Node.js version: v14.18.1
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
